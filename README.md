@@ -22,3 +22,9 @@ and vice versa.
 MalespinCLI is a command line interface.
 
 MalespinGUI is a graphical user interface based in the funtion located in MalespinCLI.py
+
+---
+
+# Installation
+
+No installation needed just run the python scripts :wink:
