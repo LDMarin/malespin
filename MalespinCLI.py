@@ -1,11 +1,11 @@
 
 
 def user_in():
-    return input("Palabra a traduccir: ")
+    return input("Word to translate: ")
 
 
 def ask_to_continue():
-    return input("Desea traduccir otra palabra S / N: ").lower()
+    return input("Do you want to translate another word Y / N: ").lower()
 
 
 def translate(word):
@@ -42,7 +42,7 @@ def main():
         new_word = translate(word)
         print(new_word)
         atc = ask_to_continue()
-        if atc != "s":
+        if atc != "y":
             break
 
 
