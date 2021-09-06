@@ -6,7 +6,7 @@ class MalespinGUI(Frame):
     def __init__(self, master):
         super().__init__(master)
         self.master = master
-        master.title("Malespin Translator")
+        master.title("Malespín Translator")
         master.resizable(False, False)
         master.geometry("300x150")
 
