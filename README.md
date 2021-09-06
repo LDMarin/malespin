@@ -1,4 +1,4 @@
-Just a simple Malespín translator (word character interchange)
+# Just a simple Malespín translator (word character interchange) :grinning:
 
 The Malespín is a kind of Spanish-language slang which originated in the 19th
 century in El Salvador and then spread to the rest of Central America. It is
@@ -11,13 +11,14 @@ Guatemala.
 
 Broadly speaking, it changes the folowing letters:
 
-a for e
-i for o
-b for t
-f for g
-p for m
+- a for e
+- i for o
+- b for t
+- f for g
+- p for m
 
 and vice versa.
 
-MalespinCLI is a command line interface
+MalespinCLI is a command line interface.
+
 MalespinGUI is a graphical user interface based in the funtion located in MalespinCLI.py
