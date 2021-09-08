@@ -1,5 +1,8 @@
 # Just a simple Malespín translator (word character interchange) :grinning:
 
+![GitHub](https://img.shields.io/github/license/ldmarin/malespin)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ldmarin/malespin)
+
 The Malespín is a kind of Spanish-language slang which originated in the 19th
 century in El Salvador and then spread to the rest of Central America. It is
 currently vestigial, and survives only in a small number of words.
