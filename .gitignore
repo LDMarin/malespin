@@ -1,1 +1,5 @@
-/__pycache__
+# Ignore IDE folder
+.vscode/
+
+# Ignore pycache
+__pycache__/
